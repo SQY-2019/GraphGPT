@@ -1,4 +1,0 @@
-一、识别数据文件：
-总数据文件：all_graph_data.pt。“Graph Data: is a combination of all utilized pyg graph data that contain node features, edge_index and so on. You can download by all_graph_data.pt and put it at [./GraphGPT/graph_data]”
-第一步自监督学习数据文件：graph_matching.json。“Self-Supervised Instruction Tuning [Back to Top] Prepare data: Please download our instruction tuning data graph_matching.json for the graph matching task.”
-第二步特定任务指令微调数据文件：https://huggingface.co/datasets/Jiabin99/Arxiv-PubMed-mix-NC-LP。
